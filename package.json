@@ -1,0 +1,11 @@
+{
+    "name": "Heroku test app",
+    "description" : "A Node.js test app.",
+    "dependencies": {
+	"engines" : { 
+	"node" : "0.8.11"},
+    "keywords" : ["node.js", "node", "socket.io", "WebSockets"],
+    "version": "0.9.1",
+    "author" : "Mike Tyler",
+    "contributors" :  {""}
+}
