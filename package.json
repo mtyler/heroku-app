@@ -1,5 +1,5 @@
 {
-    "name": "Heroku test app",
+    "name": "mtyler-heroku-app",
     "description": "A Node.js test app.",
     "dependencies": {},
 	"engines" : { 
