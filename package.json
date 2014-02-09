@@ -7,5 +7,6 @@
     "keywords" : ["node.js", "node", "socket.io", "WebSockets"],
     "version": "0.9.1",
     "author" : "Mike Tyler",
-    "contributors" :  {""}
+    "contributors" :  {"xxx" : "xxx",
+		       "xxx" : "xxx"}
 }
