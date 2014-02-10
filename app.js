@@ -4,7 +4,7 @@
 // Start http server and bind the socket.io service
 //
 var fs = require("fs"),
-var app = require("http").createServer(handler); // handler defined below
+app = require("http").createServer(handler); // handler defined below
 //io = require("socket.io").listen(app);
 
 theport = process.env.PORT || 2000;
